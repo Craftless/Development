@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "tutorial:block/ruby_planks",
-    "top": "tutorial:block/ruby_planks",
-    "side": "tutorial:block/ruby_planks"
-  }
-}

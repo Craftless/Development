@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tutorial:items/jar",
-    "layer1": "tutorial:items/jar_lid"
-  }
-}
